@@ -1,4 +1,4 @@
-# Simple Linear Regression: Predicting Sales from TV Advertising
+# 📊 Simple Linear Regression: Predicting Sales from TV Advertising
 
 A beginner-friendly machine learning notebook that models sales as a function of TV advertising spend using simple linear regression, following the equation Sales = m x TV + c.
 
