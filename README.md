@@ -32,4 +32,4 @@ The follow-up repositories Multiple-Linear-Regression and the House Price Predic
 
 ## Author
 
-Ritesh Pardeshi, Data Scientist
+Ritesh Pardeshi, Data Intelligence Specialist
